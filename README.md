@@ -26,7 +26,7 @@
 > git pull origin main
 ```
 → main 브랜치의 최신 내용을 가져와 현재 브랜치에 병합합니다.  
-(작업 브랜치가 `develop` 이라면  `git pull origin develop` )  
+  (작업 브랜치가 `develop` 이라면  `git pull origin develop` )  
   
 4. 변경 사항 확인
 ```cs
