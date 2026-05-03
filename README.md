@@ -13,21 +13,21 @@
 > git branch
 * main
 ```  
-→ 작업 중인 브랜치가 `main` 인지, `develop` 인지 확인
-
+→ 작업 중인 브랜치가 `main` 인지, `develop` 인지 확인  
+  
 2. 원격 저정소 최신내용 가져오기
 ```cs
 > git fetch origin
 ```
-→ 원격 저장소의 최신 커밋들을 가져오지만, 아직 로컬 브랜치에는 반영되지 않습니다.
-
+→ 원격 저장소의 최신 커밋들을 가져오지만, 아직 로컬 브랜치에는 반영되지 않습니다.  
+  
 3. 로컬 브랜치에 병합
 ```cs
 > git pull origin main
 ```
 → main 브랜치의 최신 내용을 가져와 현재 브랜치에 병합합니다.  
-(작업 브랜치가 `develop` 이라면  `git pull origin develop` )
-
+(작업 브랜치가 `develop` 이라면  `git pull origin develop` )  
+  
 4. 변경 사항 확인
 ```cs
 > git status
