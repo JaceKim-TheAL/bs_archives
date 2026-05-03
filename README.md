@@ -57,6 +57,23 @@
 
 <br/>
 
+- Origin이 존재하지 않는다는 에러 발생시
+- 레포지토리 생성후 연결 과정에서 문제가 발생한 경우이며, 다시 연결시켜주면 해결이 가능
+```cs
+fatal: 'origin' does not appear to be a git repository
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+> git remote add origin https://github.com/JaceKim-TheAL/bs_archives.git
+```
+- git remote add origin [레포지토리 주소]
+  <br/> 를 입력하여 origin 저장소를 연결해주고 다시 git remote -v를 입력하여 확인해보면 origin 저장소가 잘 연결되어있다
+- 그리고 다시 origin main 저장소로 push 하면 정상적으로 작동이 된다
+
+<br/>
+
 [[TOP]](#index)
 
 ---
