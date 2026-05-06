@@ -38,7 +38,7 @@ git pull origin main
   (작업 브랜치가 `develop` 이라면  `git pull origin develop` )  
 
 <br/>
-  
+
 **4. 변경 사항 확인**
 ```cs
 git status
@@ -72,9 +72,12 @@ fatal: Could not read from remote repository.
 
 Please make sure you have the correct access rights
 and the repository exists.
-
-> git remote add origin https://github.com/JaceKim-TheAL/bs_archives.git
 ```
+
+```cs
+git remote add origin https://github.com/JaceKim-TheAL/bs_archives.git
+```
+
 - **git remote add origin [레포지토리 주소]**
   <br/> 를 입력하여 origin 저장소를 연결해주고 다시 git remote -v를 입력하여 확인해보면 origin 저장소가 잘 연결되어있다
 - 그리고 다시 origin main 저장소로 push 하면 정상적으로 작동이 된다
