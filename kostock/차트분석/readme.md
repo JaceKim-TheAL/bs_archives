@@ -1,6 +1,14 @@
 # 차트분석
 > 머니레이다 쇼츠 : [Money Radar AI Shorts](https://www.youtube.com/@moneyradar-ai/shorts)
 
+### INDEX
+
+- [가격행동 패턴 8가지](#가격행동-패턴-8가지)
+- [차트고수 5단계](#차트고수-5단계)
+- [익절신호](#익절신호)
+- [컵앱핸들](#컵앤핸들)
+
+---
 ### 가격행동 패턴 8가지
 > 프로트레이드가 가장 먼저 찾는 캔들패턴
 
@@ -86,8 +94,12 @@
     <td colspan="3">직전봉을 완전히 돌전히 감싸면 변동성 폭발 신호 </td>
   </tr>
 </table>
----
 
+<br/>
+
+[[TOP]](#index)
+
+---
 ### 차트고수 5단계
 
 <table>
@@ -125,8 +137,11 @@
   </tr>
 </table>
 
----
+<br/>
 
+[[TOP]](#index)
+
+---
 ### 익절신호
 
 <table>
@@ -146,8 +161,11 @@
   </tr>
 </table>
 
----
+<br/>
 
+[[TOP]](#index)
+
+---
 ### 컵앤핸들
 
 <table>
@@ -169,26 +187,8 @@
 </table>
 
 
+<br/>
+
+[[TOP]](#index)
+
 ---
-
-### AI패러다임이 만드는 미래
-> 앞으로 10년 세상을 바꿔놓을 7종목
-
-<table>
-  <tr align="center">
-    <td><img src="./img/AI패러다임_종목.png" width="250"></td>
-    <td><img src="./img/AI패러다임_01.png" width="250"></td>
-    <td><img src="./img/AI패러다임_02.png" width="250"></td>
-    <td><img src="./img/AI패러다임_03.png" width="250"></td>
-  </tr>
-  <tr align="center">
-    <td><img src="./img/AI패러다임_04.png" width="250"></td>
-    <td><img src="./img/AI패러다임_05.png" width="250"></td>
-    <td><img src="./img/AI패러다임_06.png" width="250"></td>
-    <td><img src="./img/AI패러다임_07.png" width="250"></td>
-  </tr>
-  <tr align="center">
-    <td colspan="4"><b>엔비디아, 팔란티어, 테슬라, 크라우드스트라이크, 카메코, 로켓랩, 아이온큐</b></td>
-  </tr>
-</table>
-
