@@ -55,6 +55,45 @@
 [[TOP]](#index)
 
 ---
+### 매수신호
+> 상승중에 직전고점을 뚫지 못하고, 직전 종가를 이탈하면 매도
+
+<table>
+  <tr align="center">
+    <td><img src="./img/매수신호_01.png" width="250"></td>
+    <td><img src="./img/매수신호_02.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/매수신호_03.png" width="250"></td>
+    <td><img src="./img/매수신호_04.png" width="250"></td>
+    <td><img src="./img/매수신호_05.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/매수신호_06.png" width="250"></td>
+    <td><img src="./img/매수신호_07.png" width="250"></td>
+    <td><img src="./img/매수신호_08.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/매수신호_09.png" width="250"></td>
+    <td><img src="./img/매수신호_10.png" width="250"></td>
+    <td><img src="./img/매수신호_11.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/매수신호_12.png" width="250"></td>
+    <td><img src="./img/매수신호_13.png" width="250"></td>
+    <td><img src="./img/매수신호_14.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/매수신호_15.png" width="250"></td>
+    <td><img src="./img/매수신호_16.png" width="250"></td>
+  </tr>
+</table>
+
+<br/>
+
+[[TOP]](#index)
+
+---
 ### 익절신호
 > ❶ 목표가 도달 ❷ 저항선에 근접 ❸ 거래량폭증 + 장대양봉 <br/>
 > ❹ 황금선 이탈 ❺ 반전캔들 등장 ❻ 거래량감소 + 둔화  ❼ 쌍봉 M자 패턴 <br/>
