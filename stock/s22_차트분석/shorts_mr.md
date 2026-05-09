@@ -8,6 +8,7 @@
 - [익절신호](#익절신호)
 - [컵앱핸들](#컵앤핸들)
 - [차트 4대 반전패턴](#차트-4대-반전패턴)
+- [가짜돌파](#가짜돌파)
 
 ---
 ## 차트분석
@@ -57,11 +58,11 @@
 
 ---
 ### 매수신호
-> - [ ] ❶ 잉태형 : 이전봉의 고가를 돌파 종료
-> - [ ] ❷ 거래량 : 거래량의 평소의 300% 이상으로 급증
-> - [ ] ❸ 지지선 : 박스권 지지선을 터치
-> - [ ] ❹ 정배열 : 단기이평선이 정배열 (5일 > 20일 > 60일)
-> - [ ] ❺ 추세돌파 : 하락추세선을 강하게 돌파
+> - [ ] ❶ **잉태형** : 이전봉의 고가를 돌파 종료
+> - [ ] ❷ **거래량** : 거래량의 평소의 300% 이상으로 급증
+> - [ ] ❸ **지지선** : 박스권 지지선을 터치
+> - [ ] ❹ **정배열** : 단기이평선이 정배열 (5일 > 20일 > 60일)
+> - [ ] ❺ **추세돌파** : 하락추세선을 강하게 돌파
 > - [x] **5가지 모두가 한자리에 모이면 강력한 매수자리!!**
 
 <table>
@@ -255,6 +256,39 @@
     <td><img src="./img/반전패턴_13.png" width="300"></td>
   </tr>
 </table>  
+<br/>
+
+[[TOP]](#index)
+
+---
+### 가짜돌파
+> 가짜 돌파를 알아채는 법
+
+<table>
+  <tr align="center">
+    <td><img src="./img/페이크돌파_01.png" width="250"></td>
+    <td><img src="./img/페이크돌파_02.png" width="250"></td>
+    <td><img src="./img/페이크돌파_03.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/페이크돌파_04.png" width="250"></td>
+    <td><img src="./img/페이크돌파_05.png" width="250"></td>
+    <td><img src="./img/페이크돌파_06.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/페이크돌파_07.png" width="250"></td>
+    <td><img src="./img/페이크돌파_08.png" width="250"></td>
+    <td><img src="./img/페이크돌파_09.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/페이크돌파_10.png" width="250"></td>
+    <td><img src="./img/페이크돌파_11.png" width="250"></td>
+    <td><img src="./img/페이크돌파_12.png" width="250"></td>
+  </tr>
+  <tr align="center">
+  </tr>
+</table>
+
 <br/>
 
 [[TOP]](#index)
