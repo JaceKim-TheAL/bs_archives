@@ -3,6 +3,7 @@
 ### INDEX
 
 - [차트가 보이기 시작하는 캔들 8조합](#차트가-보이기-시작하는-캔들-8조합)
+- [캔들꼬리 8가지](#캔들꼬리-8가지)
 - [하락끝, 매수해도 되는 4가지 신호](#하락끝-매수해도-되는-4가지-신호)
 - [가격행동 패턴 8가지](#가격행동-패턴-8가지)
 
@@ -40,7 +41,44 @@
     <td><img src="./img/캔들8조합_16.png" width="300"></td>
     <td><img src="./img/캔들8조합_17.png" width="300"></td>
   </tr>
+</table>  
+<br/>
 
+[[TOP]](#index)
+
+---
+### 캔들꼬리 8가지
+> 긴윗꼬리, 긴아래꼬리, 양쪽꼬리(스피닝), 무꼬리양봉, 무꼬리음봉, 잠자리도지, 비석도지, 가짜망치
+
+<table>
+  <tr align="center" valign="top">
+    <td><img src="./img/캔들꼬리_01.png" width="300"></td>
+    <td><img src="./img/캔들꼬리_18.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/캔들꼬리_02.png" width="300"></td>
+    <td><img src="./img/캔들꼬리_03.png" width="300"></td>
+    <td><img src="./img/캔들꼬리_04.png" width="300"></td>
+    <td><img src="./img/캔들꼬리_05.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/캔들꼬리_06.png" width="300"></td>
+    <td><img src="./img/캔들꼬리_07.png" width="300"></td>
+    <td><img src="./img/캔들꼬리_08.png" width="300"></td>
+    <td><img src="./img/캔들꼬리_09.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/캔들꼬리_10.png" width="300"></td>
+    <td><img src="./img/캔들꼬리_11.png" width="300"></td>
+    <td><img src="./img/캔들꼬리_12.png" width="300"></td>
+    <td><img src="./img/캔들꼬리_13.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/캔들꼬리_14.png" width="300"></td>
+    <td><img src="./img/캔들꼬리_15.png" width="300"></td>
+    <td><img src="./img/캔들꼬리_16.png" width="300"></td>
+    <td><img src="./img/캔들꼬리_17.png" width="300"></td>
+  </tr>
 </table>  
 <br/>
 
