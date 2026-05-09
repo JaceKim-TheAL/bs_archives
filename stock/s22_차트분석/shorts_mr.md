@@ -102,9 +102,19 @@
 > - [x] **5가지 모두가 한자리에 모이면 강력한 매수자리!!**
 
 <table>
-  <tr align="center">
+  <tr valign="center">
     <td><img src="./img/매수신호_01.png" width="300"></td>
     <td><img src="./img/매수신호_02.png" width="300"></td>
+    <td>
+      <ul>
+        <li> ❶ <b>잉태형</b> : 이전봉의 고가를 돌파 종료
+        <li> ❷ <b>거래량</b> : 거래량의 평소의 300% 이상으로 급증
+        <li> ❸ <b>지지선</b> : 박스권 지지선을 터치
+        <li> ❹ <b>정배열</b> : 단기이평선이 정배열 (5일 > 20일 > 60일)
+        <li> ❺ <b>추세돌파</b> : 하락추세선을 강하게 돌파
+        <b>5가지 모두가 한자리에 모이면 강력한 매수자리!!</b>
+      </ul>
+    </td>
   </tr>
   <tr align="center">
     <td><img src="./img/매수신호_03.png" width="300"></td>
