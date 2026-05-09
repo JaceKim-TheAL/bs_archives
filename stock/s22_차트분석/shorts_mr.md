@@ -7,6 +7,7 @@
 - [매도타점](#매도타점)
 - [익절신호](#익절신호)
 - [컵앱핸들](#컵앤핸들)
+- [돌파패턴](#돌파패턴-8가지)
 - [반전패턴](#차트-4대-반전패턴)
 - [지속패턴](#지속-패턴-6가지)
 - [가짜돌파](#가짜돌파)
@@ -224,6 +225,59 @@
 </table>
 
 
+<br/>
+
+[[TOP]](#index)
+
+---
+### 돌파패턴 8가지
+> 외우면 매매끝
+
+<table>
+  <tr align="center" valign="top">
+    <td colspan="4"><img src="./img/돌파패턴_01.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/돌파패턴_02.png" width="300"></td>
+    <td><img src="./img/돌파패턴_03.png" width="300"></td>
+    <td><img src="./img/돌파패턴_04.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/돌파패턴_05.png" width="300"></td>
+    <td><img src="./img/돌파패턴_06.png" width="300"></td>
+    <td><img src="./img/돌파패턴_07.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/돌파패턴_08.png" width="300"></td>
+    <td><img src="./img/돌파패턴_09.png" width="300"></td>
+    <td><img src="./img/돌파패턴_10.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/돌파패턴_11.png" width="300"></td>
+    <td><img src="./img/돌파패턴_12.png" width="300"></td>
+    <td><img src="./img/돌파패턴_13.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/돌파패턴_14.png" width="300"></td>
+    <td><img src="./img/돌파패턴_15.png" width="300"></td>
+    <td><img src="./img/돌파패턴_16.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/돌파패턴_17.png" width="300"></td>
+    <td><img src="./img/돌파패턴_18.png" width="300"></td>
+    <td><img src="./img/돌파패턴_19.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/돌파패턴_20.png" width="300"></td>
+    <td><img src="./img/돌파패턴_21.png" width="300"></td>
+    <td><img src="./img/돌파패턴_22.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/돌파패턴_23.png" width="300"></td>
+    <td><img src="./img/돌파패턴_24.png" width="300"></td>
+    <td><img src="./img/돌파패턴_25.png" width="300"></td>
+  </tr>
+</table>  
 <br/>
 
 [[TOP]](#index)
