@@ -234,7 +234,7 @@
 > 외우면 매매끝
 
 <table>
-  <tr align="center" valign="top">
+  <tr valign="center">
     <td><img src="./img/돌파패턴_01.png" width="300"></td>
     <td colspan="2">
       <ul>
