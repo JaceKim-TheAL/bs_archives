@@ -2,11 +2,46 @@
 
 ### INDEX
 
+- [하락끝, 매수해도 되는 4가지 신호](#하락끝-매수해도-되는-4가지-신호)
 - [가격행동 패턴 8가지](#가격행동-패턴-8가지)
 
 ---
 ## 캔들분석
 > 머니레이다 쇼츠 : [Money Radar AI Shorts](https://www.youtube.com/@moneyradar-ai/shorts)
+
+---
+### 하락끝, 매수해도 되는 4가지 신호
+
+<table>
+  <tr align="center" valign="top">
+    <td><img src="./img/매수신호_01.png" width="300"></td>
+    <td><img src="./img/매수신호_14.png" width="300"></td>
+    <td><img src="./img/매수신호_15.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/매수신호_02.png" width="300"></td>
+    <td><img src="./img/매수신호_03.png" width="300"></td>
+    <td><img src="./img/매수신호_04.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/매수신호_05.png" width="300"></td>
+    <td><img src="./img/매수신호_06.png" width="300"></td>
+    <td><img src="./img/매수신호_07.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/매수신호_08.png" width="300"></td>
+    <td><img src="./img/매수신호_09.png" width="300"></td>
+    <td><img src="./img/매수신호_10.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/매수신호_11.png" width="300"></td>
+    <td><img src="./img/매수신호_12.png" width="300"></td>
+    <td><img src="./img/매수신호_13.png" width="300"></td>
+  </tr>
+</table>  
+<br/>
+
+[[TOP]](#index)
 
 ---
 ### 가격행동 패턴 8가지
@@ -47,7 +82,9 @@
     <td>직전봉을 완전히 감싸면 변동성 폭발 신호 </td>
   </tr>
 </table>  
+
 <br/>
+
 <table>
   <tr align="center" valign="top">
     <td><img src="./img/가격행동패턴_01.png" width="250"></td>
