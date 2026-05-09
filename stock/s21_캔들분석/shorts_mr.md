@@ -2,12 +2,49 @@
 
 ### INDEX
 
+- [차트가 보이기 시작하는 캔들 8조합](#차트가-보이기-시작하는-캔들-8조합)
 - [하락끝, 매수해도 되는 4가지 신호](#하락끝-매수해도-되는-4가지-신호)
 - [가격행동 패턴 8가지](#가격행동-패턴-8가지)
 
 ---
 ## 캔들분석
 > 머니레이다 쇼츠 : [Money Radar AI Shorts](https://www.youtube.com/@moneyradar-ai/shorts)
+
+
+---
+### 차트가 보이기 시작하는 캔들 8조합
+> 상승장악형, 하락장악형, 적삼병, 흑삼병, 상승관통형, 흑운형, 도지, 샛별
+
+<table>
+  <tr align="center" valign="top">
+    <td><img src="./img/캔들8조합_02.png" width="300"></td>
+    <td><img src="./img/캔들8조합_03.png" width="300"></td>
+    <td><img src="./img/캔들8조합_04.png" width="300"></td>
+    <td><img src="./img/캔들8조합_05.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/캔들8조합_06.png" width="300"></td>
+    <td><img src="./img/캔들8조합_07.png" width="300"></td>
+    <td><img src="./img/캔들8조합_08.png" width="300"></td>
+    <td><img src="./img/캔들8조합_09.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/캔들8조합_10.png" width="300"></td>
+    <td><img src="./img/캔들8조합_11.png" width="300"></td>
+    <td><img src="./img/캔들8조합_12.png" width="300"></td>
+    <td><img src="./img/캔들8조합_13.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/캔들8조합_14.png" width="300"></td>
+    <td><img src="./img/캔들8조합_15.png" width="300"></td>
+    <td><img src="./img/캔들8조합_16.png" width="300"></td>
+    <td><img src="./img/캔들8조합_17.png" width="300"></td>
+  </tr>
+
+</table>  
+<br/>
+
+[[TOP]](#index)
 
 ---
 ### 하락끝, 매수해도 되는 4가지 신호
