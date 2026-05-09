@@ -102,7 +102,7 @@
 > - [x] **5가지 모두가 한자리에 모이면 강력한 매수자리!!**
 
 <table>
-  <tr valign="center">
+  <tr valign="bottom">
     <td><img src="./img/매수신호_01.png" width="300"></td>
     <td>
       <br/> ❶ <b>잉태형</b> : 이전봉의 고가를 돌파 종료
