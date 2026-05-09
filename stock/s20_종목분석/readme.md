@@ -2,5 +2,8 @@
 > 머니레이다 쇼츠 : [Money Radar AI Shorts](https://www.youtube.com/@moneyradar-ai/shorts)
 
 
-- [나스닥_AI관련종목](./나스닥_AI관련종목.md)
+- [테마_AI_인공지능](./테마_AI_인공지능.md)
+- [테마_반도체](./테마_반도체.md)
+
+
 
