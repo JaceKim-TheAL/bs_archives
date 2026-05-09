@@ -19,9 +19,10 @@
 ---
 ### 차트고수 5단계
 
+<!-- 
 <table>
   <tr align="center">
-    <td><b>차트</b></td>
+    <td><b>차트고수</b></td>
     <td><b>Sweep</b></td>
     <td><b>Gap</b></td>
     <td><b>전환</b></td>
@@ -29,12 +30,12 @@
     <td><b>돌파</b></td>
   </tr>
   <tr align="center">
-    <td><img src="./img/차트고수_00.png" width="200"></td>
-    <td><img src="./img/차트고수_01.png" width="200"></td>
-    <td><img src="./img/차트고수_02.png" width="200"></td>
-    <td><img src="./img/차트고수_03.png" width="200"></td>
-    <td><img src="./img/차트고수_04.png" width="200"></td>
-    <td><img src="./img/차트고수_05.png" width="200"></td>
+    <td><img src="./img/차트고수_00.png" width="300"></td>
+    <td><img src="./img/차트고수_01.png" width="300"></td>
+    <td><img src="./img/차트고수_02.png" width="300"></td>
+    <td><img src="./img/차트고수_03.png" width="300"></td>
+    <td><img src="./img/차트고수_04.png" width="300"></td>
+    <td><img src="./img/차트고수_05.png" width="300"></td>
   </tr>
   <tr align="center">
     <td>단계</td>
@@ -51,6 +52,39 @@
     <td>고점과 저점이 점점 낮아지면 추세반전</td>
     <td>큰 음봉후 다시 반등하는 자리, 돌파박스 매수</td>
     <td>직전고점 강한돌파, 리테스트후 매수</td>
+  </tr>
+</table>
+-->
+
+<table>
+  <tr align="center">
+    <td><b>차트고수</b></td>
+    <td><b>Sweep</b></td>
+    <td><b>Gap</b></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/차트고수_00.png" width="300"></td>
+    <td><img src="./img/차트고수_01.png" width="300"></td>
+    <td><img src="./img/차트고수_02.png" width="300"></td>
+  <tr valign="top">
+    <td align="center"></td>
+    <td><b>직전저점</b> <br/>Sweep 개미손절후 상승하는 자리</td>
+    <td><b>갭(FVG)</b> <br/>강한양봉사이 빈공간은 다시 채우려 함 </td>
+  </tr>
+  <tr align="center">
+    <td><b>전환</b></td>
+    <td><b>박스</b></td>
+    <td><b>돌파</b></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/차트고수_03.png" width="300"></td>
+    <td><img src="./img/차트고수_04.png" width="300"></td>
+    <td><img src="./img/차트고수_05.png" width="300"></td>
+  </tr>
+  <tr valign="top">
+    <td><b>추세전환</b> <br/>고점과 저점이 점점 낮아지면 추세반전</td>
+    <td><b>기관매수</b> <br/>큰 음봉후 다시 반등하는 자리, 돌파박스 매수</td>
+    <td><b>고점돌파</b> <br/>직전고점 강한돌파, 리테스트후 매수</td>
   </tr>
 </table>
 
