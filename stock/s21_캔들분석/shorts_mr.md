@@ -6,6 +6,7 @@
 - [캔들꼬리 8가지](#캔들꼬리-8가지)
 - [하락끝, 매수해도 되는 4가지 신호](#하락끝-매수해도-되는-4가지-신호)
 - [가격행동 패턴 8가지](#가격행동-패턴-8가지)
+- [익절신호 4가지](#익절신호-4가지)
 
 ---
 ## 캔들분석
@@ -121,7 +122,7 @@
 
 ---
 ### 가격행동 패턴 8가지
-> 프로트레이드가 가장 먼저 찾는 캔들패턴
+> ProTrader가 가장 먼저 찾는 캔들패턴
 
 <table>
   <tr>    
@@ -208,6 +209,40 @@
   </tr>
 </table>
 
+<br/>
+
+[[TOP]](#index)
+
+---
+### 익절신호 4가지
+> 유성형(Shooting Star), 하락장악형(Engulfing), 석별(Evening Star), 교수형확정(Hanging Man)
+
+<table>
+  <tr align="center" valign="top">
+    <td><img src="./img/익절신호_01.png" width="300"></td>
+    <td><img src="./img/익절신호_14.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/익절신호_02.png" width="300"></td>
+    <td><img src="./img/익절신호_03.png" width="300"></td>
+    <td><img src="./img/익절신호_04.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/익절신호_05.png" width="300"></td>
+    <td><img src="./img/익절신호_06.png" width="300"></td>
+    <td><img src="./img/익절신호_07.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/익절신호_08.png" width="300"></td>
+    <td><img src="./img/익절신호_09.png" width="300"></td>
+    <td><img src="./img/익절신호_10.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/익절신호_11.png" width="300"></td>
+    <td><img src="./img/익절신호_12.png" width="300"></td>
+    <td><img src="./img/익절신호_13.png" width="300"></td>
+  </tr>
+</table>  
 <br/>
 
 [[TOP]](#index)
