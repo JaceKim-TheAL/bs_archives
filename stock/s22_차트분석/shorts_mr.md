@@ -103,32 +103,32 @@
 
 <table>
   <tr align="center">
-    <td><img src="./img/매수신호_01.png" width="250"></td>
-    <td><img src="./img/매수신호_02.png" width="250"></td>
+    <td><img src="./img/매수신호_01.png" width="300"></td>
+    <td><img src="./img/매수신호_02.png" width="300"></td>
   </tr>
   <tr align="center">
-    <td><img src="./img/매수신호_03.png" width="250"></td>
-    <td><img src="./img/매수신호_04.png" width="250"></td>
-    <td><img src="./img/매수신호_05.png" width="250"></td>
+    <td><img src="./img/매수신호_03.png" width="300"></td>
+    <td><img src="./img/매수신호_04.png" width="300"></td>
+    <td><img src="./img/매수신호_05.png" width="300"></td>
   </tr>
   <tr align="center">
-    <td><img src="./img/매수신호_06.png" width="250"></td>
-    <td><img src="./img/매수신호_07.png" width="250"></td>
-    <td><img src="./img/매수신호_08.png" width="250"></td>
+    <td><img src="./img/매수신호_06.png" width="300"></td>
+    <td><img src="./img/매수신호_07.png" width="300"></td>
+    <td><img src="./img/매수신호_08.png" width="300"></td>
   </tr>
   <tr align="center">
-    <td><img src="./img/매수신호_09.png" width="250"></td>
-    <td><img src="./img/매수신호_10.png" width="250"></td>
-    <td><img src="./img/매수신호_11.png" width="250"></td>
+    <td><img src="./img/매수신호_09.png" width="300"></td>
+    <td><img src="./img/매수신호_10.png" width="300"></td>
+    <td><img src="./img/매수신호_11.png" width="300"></td>
   </tr>
   <tr align="center">
-    <td><img src="./img/매수신호_12.png" width="250"></td>
-    <td><img src="./img/매수신호_13.png" width="250"></td>
-    <td><img src="./img/매수신호_14.png" width="250"></td>
+    <td><img src="./img/매수신호_12.png" width="300"></td>
+    <td><img src="./img/매수신호_13.png" width="300"></td>
+    <td><img src="./img/매수신호_14.png" width="300"></td>
   </tr>
   <tr align="center">
-    <td><img src="./img/매수신호_15.png" width="250"></td>
-    <td><img src="./img/매수신호_16.png" width="250"></td>
+    <td><img src="./img/매수신호_15.png" width="300"></td>
+    <td><img src="./img/매수신호_16.png" width="300"></td>
   </tr>
 </table>
 
