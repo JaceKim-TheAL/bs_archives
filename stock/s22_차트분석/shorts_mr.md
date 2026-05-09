@@ -45,7 +45,7 @@
     <td>고점돌파</td>
   </tr>
   <tr valign="top">
-    <td align="center">메모</td>
+    <td align="center">내용</td>
     <td>Sweep 개미손절후 상승하는 자리</td>
     <td>강한양봉사이 빈공간은 다시 채우려 함 </td>
     <td>고점과 저점이 점점 낮아지면 추세반전</td>
