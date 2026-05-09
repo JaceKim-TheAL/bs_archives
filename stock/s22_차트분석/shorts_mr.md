@@ -5,6 +5,7 @@
 - [차트고수 5단계](#차트고수-5단계)
 - [익절신호](#익절신호)
 - [컵앱핸들](#컵앤핸들)
+- [차트 4대 반전패턴](#차트-4대-반전패턴)
 
 ---
 ## 차트분석
@@ -98,6 +99,39 @@
 </table>
 
 
+<br/>
+
+[[TOP]](#index)
+
+---
+### 차트 4대 반전패턴
+> 역헤드앤숄더, 헤드앤숄드, 하락쐐기형, 상승쐐기형
+
+<table>
+  <tr align="center" valign="top">
+    <td colspan="4"><img src="./img/반전패턴_01.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/반전패턴_02.png" width="300"></td>
+    <td><img src="./img/반전패턴_03.png" width="300"></td>
+    <td><img src="./img/반전패턴_04.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/반전패턴_05.png" width="300"></td>
+    <td><img src="./img/반전패턴_06.png" width="300"></td>
+    <td><img src="./img/반전패턴_07.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/반전패턴_08.png" width="300"></td>
+    <td><img src="./img/반전패턴_09.png" width="300"></td>
+    <td><img src="./img/반전패턴_10.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/반전패턴_11.png" width="300"></td>
+    <td><img src="./img/반전패턴_12.png" width="300"></td>
+    <td><img src="./img/반전패턴_13.png" width="300"></td>
+  </tr>
+</table>  
 <br/>
 
 [[TOP]](#index)
