@@ -115,6 +115,8 @@
       <br/>
       ✅ <b>5가지 모두가 한자리에 모이면 강력한 <br/> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             매수자리!!</b>
+      <br/>
+      <br/>
     </td>
     <td><img src="./img/매수신호_02.png" width="300"></td>
   </tr>
