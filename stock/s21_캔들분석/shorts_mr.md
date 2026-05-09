@@ -7,6 +7,7 @@
 - [하락끝, 매수해도 되는 4가지 신호](#하락끝-매수해도-되는-4가지-신호)
 - [가격행동 패턴 8가지](#가격행동-패턴-8가지)
 - [익절신호 4가지](#익절신호-4가지)
+- [기관이 진입한 매물대 6가지](#기관이-진입한-매물대-6가지)
 
 ---
 ## 캔들분석
@@ -241,6 +242,37 @@
     <td><img src="./img/익절신호_11.png" width="300"></td>
     <td><img src="./img/익절신호_12.png" width="300"></td>
     <td><img src="./img/익절신호_13.png" width="300"></td>
+  </tr>
+</table>  
+<br/>
+
+[[TOP]](#index)
+
+---
+### 기관이 진입한 매물대 6가지
+> 클래식 매물대, 거부 매물대, 지속 매물대, 반전 매물대, 유동성 사냥, 갭 메움
+
+<table>
+  <tr align="center" valign="top">
+    <td colspan="4"><img src="./img/매물대6가지_01.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/매물대6가지_02.png" width="300"></td>
+    <td><img src="./img/매물대6가지_03.png" width="300"></td>
+    <td><img src="./img/매물대6가지_04.png" width="300"></td>
+    <td><img src="./img/매물대6가지_05.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/매물대6가지_06.png" width="300"></td>
+    <td><img src="./img/매물대6가지_07.png" width="300"></td>
+    <td><img src="./img/매물대6가지_08.png" width="300"></td>
+    <td><img src="./img/매물대6가지_09.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/매물대6가지_10.png" width="300"></td>
+    <td><img src="./img/매물대6가지_11.png" width="300"></td>
+    <td><img src="./img/매물대6가지_12.png" width="300"></td>
+    <td><img src="./img/매물대6가지_13.png" width="300"></td>
   </tr>
 </table>  
 <br/>
