@@ -261,6 +261,48 @@
 [[TOP]](#index)
 
 ---
+### 지속 패턴 6가지
+> - <b>매수신호</b> : 상승깃발형, 상승박스권, 상승패넌트
+> - <b>경고신호</b> : 하락깃발형, 하락박스권, 하락패넌트
+
+<table>
+  <tr align="center" valign="top">
+    <td colspan="3"><img src="./img/지속패턴_01.png" width="300"></td>
+  </tr>
+  <tr valign="top">
+    <td colspan="3"><b>매수신호</b> : 상승깃발형, 상승박스권, 상승패넌트</td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/지속패턴_02.png" width="300"></td>
+    <td><img src="./img/지속패턴_04.png" width="300"></td>
+    <td><img src="./img/지속패턴_06.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/지속패턴_03.png" width="300"></td>
+    <td><img src="./img/지속패턴_05.png" width="300"></td>
+    <td><img src="./img/지속패턴_07.png" width="300"></td>
+  </tr>
+  <tr valign="top">
+    <td colspan="3"><b>경고신호</b> : 하락깃발형, 하락박스권, 하락패넌트</td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/지속패턴_08.png" width="300"></td>
+    <td><img src="./img/지속패턴_10.png" width="300"></td>
+    <td><img src="./img/지속패턴_12.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/지속패턴_09.png" width="300"></td>
+    <td><img src="./img/지속패턴_11.png" width="300"></td>
+    <td><img src="./img/지속패턴_13.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+  </tr>
+</table>  
+<br/>
+
+[[TOP]](#index)
+
+---
 ### 가짜돌파
 > - 가짜 돌파를 알아채는 법
 > - [x] 모두가 보는 고점인가?
