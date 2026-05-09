@@ -235,7 +235,19 @@
 
 <table>
   <tr align="center" valign="top">
-    <td colspan="4"><img src="./img/돌파패턴_01.png" width="300"></td>
+    <td><img src="./img/돌파패턴_01.png" width="300"></td>
+    <td colspan="2">
+      <ul>
+        <li> <b>강세 깃발</b>
+        <li> <b>강세 플래그</b>
+        <li> <b>상승 가리비</b>
+        <li> <b>컵앤핸들</b>
+        <li> <b>강세 드래곤</b>
+        <li> <b>하락 쐐기</b>
+        <li> <b>강세 전환</b>
+        <li> <b>역헤드앤숄더</b>
+      </ul>
+    </td>
   </tr>
   <tr align="center" valign="top">
     <td><img src="./img/돌파패턴_02.png" width="300"></td>
