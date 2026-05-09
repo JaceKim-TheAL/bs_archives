@@ -1,13 +1,11 @@
-# 종목분석
-> 머니레이다 쇼츠 : [Money Radar AI Shorts](https://www.youtube.com/@moneyradar-ai/shorts)
+🏠 > [stock](../) > [종목분석](./) > `나스닥_AI관련`
 
 ### INDEX
 
 - [AI패러다임이 만드는 미래](#ai패러다임이-만드는-미래)
 
 ---
-
-### AI패러다임이 만드는 미래
+## AI패러다임이 만드는 미래
 > 앞으로 10년 세상을 바꿔놓을 7종목
 
 <table>
