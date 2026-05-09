@@ -3,6 +3,7 @@
 ### INDEX
 
 - [차트고수 5단계](#차트고수-5단계)
+- [매도타점](#매도타점)
 - [익절신호](#익절신호)
 - [컵앱핸들](#컵앤핸들)
 - [차트 4대 반전패턴](#차트-4대-반전패턴)
@@ -55,21 +56,96 @@
 
 ---
 ### 익절신호
+> 하나라도 보이면 절반 익절
 
 <table>
   <tr align="center">
     <td><img src="./img/익절신호_01.png" width="250"></td>
+    <td><img src="./img/익절신호_23.png" width="250"></td>
+    <td><img src="./img/익절신호_24.png" width="250"></td>
+  </tr>
+  <tr valign="top">
+    <td colspan="3"><b>❶ 목표가 도달</b> ⇒ 전고점과 이평선을 보고 저항대부근을 목표가로 설정하고 근접하면 익절</td>
+  </tr>
+  <tr align="center">
     <td><img src="./img/익절신호_02.png" width="250"></td>
     <td><img src="./img/익절신호_03.png" width="250"></td>
     <td><img src="./img/익절신호_04.png" width="250"></td>
-    <td><img src="./img/익절신호_05.png" width="250"></td>
+  </tr>
+  <tr valign="top">
+    <td colspan="3"><b>❷ 저항선 근접</b> ⇒ 이전 매물대 근처의 라운드피겨 값에서 익절</td>
   </tr>
   <tr align="center">
+    <td><img src="./img/익절신호_05.png" width="250"></td>
     <td><img src="./img/익절신호_06.png" width="250"></td>
     <td><img src="./img/익절신호_07.png" width="250"></td>
+  </tr>
+  <tr valign="top">
+    <td colspan="3"><b>❸ 거래량폭증 + 장대양봉</b> ⇒ 고점에서 거래량이 증가하며 장대양봉이 나오는 지리는 세력이 물량을 떠넘기는 자리</td>
+  </tr>
+  <tr align="center">
     <td><img src="./img/익절신호_08.png" width="250"></td>
     <td><img src="./img/익절신호_09.png" width="250"></td>
     <td><img src="./img/익절신호_10.png" width="250"></td>
+  </tr>
+  <tr valign="top">
+    <td colspan="3"><b>❹ 황금선(20이평) 이탈</b> ⇒ 많은 트레이들의 심리선인 20이평을 이탈하면 매도물량이 쏟아짐, 지지가 저항으로 바뀜</td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/익절신호_11.png" width="250"></td>
+    <td><img src="./img/익절신호_12.png" width="250"></td>
+    <td><img src="./img/익절신호_13.png" width="250"></td>
+  </tr>
+  <tr valign="top">
+    <td colspan="3"><b>❺ 반전캔들 등장</b> ⇒ 고점에서 윗꼬리나 도지가 나오면 매수세보다 매도세가 강하다는 의미</td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/익절신호_14.png" width="250"></td>
+    <td><img src="./img/익절신호_15.png" width="250"></td>
+    <td><img src="./img/익절신호_16.png" width="250"></td>
+  </tr>
+  <tr valign="top">
+    <td colspan="3"><b>❻ 거래량감소 + 둔화</b> ⇒ 주가는 오르는데 거래량이 줄어들면 급락의 위험이 있음</td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/익절신호_17.png" width="250"></td>
+    <td><img src="./img/익절신호_18.png" width="250"></td>
+    <td><img src="./img/익절신호_19.png" width="250"></td>
+  </tr>
+  <tr valign="top">
+    <td colspan="3"><b>❼ 쌍봉 M자 패턴</b> ⇒ 고점이 나오고 다시 뚫지 못하면 매수세의 동력이 다한것으로 판단</td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/익절신호_20.png" width="250"></td>
+    <td><img src="./img/익절신호_21.png" width="250"></td>
+    <td><img src="./img/익절신호_22.png" width="250"></td>
+  </tr>
+</table>
+
+<br/>
+
+[[TOP]](#index)
+
+---
+### 매도타점
+> 상승중에 직전고점을 뚫지 못하고, 직전 종가를 이탈하면 매도
+
+<table>
+  <tr align="center">
+    <td><img src="./img/매도타점_01.png" width="250"></td>
+    <td><img src="./img/매도타점_10.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/매도타점_02.png" width="250"></td>
+    <td><img src="./img/매도타점_03.png" width="250"></td>
+    <td><img src="./img/매도타점_04.png" width="250"></td>
+    <td><img src="./img/매도타점_05.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/매도타점_06.png" width="250"></td>
+    <td><img src="./img/매도타점_07.png" width="250"></td>
+    <td><img src="./img/매도타점_08.png" width="250"></td>
+    <td><img src="./img/매도타점_09.png" width="250"></td>
   </tr>
 </table>
 
