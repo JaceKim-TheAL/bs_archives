@@ -13,7 +13,7 @@
 > 역헤드앤숄더, 쌍바닥 전고돌파, 짝궁뎅이 쌍바닥
 
 <table>
-  <tr valign="center">
+  <tr valign="top">
     <td><img src="./img/수익우상향_13.png" width="300"></td>
     <td colspan="2">
       <h4>주식에서 수익나는 법</h4>
