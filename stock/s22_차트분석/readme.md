@@ -5,7 +5,8 @@
 ---
 ### Shorts 캡처
 
-- [머니레이다](./shorts_mr.md)
+- [쇼츠_머니레이다](./shorts_mr)
+- [쇼츠_주식단테](./shorts_dt)
 
 ---
 ### Office 파일
