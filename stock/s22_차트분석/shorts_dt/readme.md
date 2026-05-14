@@ -110,24 +110,24 @@
 
 <table>
   <tr align="center" valign="top">
-    <td><img src="./img/세력고점_01.png" width="300"></td>
-    <td><img src="./img/세력고점_02.png" width="300"></td>
+    <td><img src="./img/세력고점_01.png" width="450"></td>
+    <td><img src="./img/세력고점_02.png" width="450"></td>
   </tr>
   <tr align="center" valign="top">
-    <td><img src="./img/세력고점_03.png" width="300"></td>
-    <td><img src="./img/세력고점_04.png" width="300"></td>
+    <td><img src="./img/세력고점_03.png" width="450"></td>
+    <td><img src="./img/세력고점_04.png" width="450"></td>
   </tr>
   <tr align="center" valign="top">
-    <td><img src="./img/세력고점_05.png" width="300"></td>
-    <td><img src="./img/세력고점_06.png" width="300"></td>
+    <td><img src="./img/세력고점_05.png" width="450"></td>
+    <td><img src="./img/세력고점_06.png" width="450"></td>
   </tr>
   <tr align="center" valign="top">
-    <td><img src="./img/세력고점_07.png" width="300"></td>
-    <td><img src="./img/세력고점_08.png" width="300"></td>
+    <td><img src="./img/세력고점_07.png" width="450"></td>
+    <td><img src="./img/세력고점_08.png" width="450"></td>
   </tr>
   <tr align="center" valign="top">
-    <td><img src="./img/세력고점_09.png" width="300"></td>
-    <td><img src="./img/세력고점_10.png" width="300"></td>
+    <td><img src="./img/세력고점_09.png" width="450"></td>
+    <td><img src="./img/세력고점_10.png" width="450"></td>
   </tr>
 </table>  
 <br/>
