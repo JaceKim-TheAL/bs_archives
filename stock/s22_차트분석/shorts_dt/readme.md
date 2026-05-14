@@ -4,6 +4,7 @@
 
 - [주식복기](#주식복기)
 - [주식에서 수익나는 차트패턴](#주식에서-수익나는-차트패턴)
+- [세력이 만드는 찐고점](#세력이-만드는-찐고점)
 
 ---
 ## 차트분석
@@ -97,6 +98,31 @@
   <tr align="center" valign="top">
     <td><img src="./img/수익우상향_10.png" width="300"></td>
     <td><img src="./img/수익우상향_11.png" width="300"></td>
+  </tr>
+</table>  
+<br/>
+
+[[TOP]](#index)
+
+---
+### 세력이 만드는 찐고점
+> 실제 2026.04.03 동국제강 차트분석
+
+<table>
+  <tr align="center" valign="top">
+    <td><img src="./img/세력고점_01.png" width="300"></td>
+    <td><img src="./img/세력고점_02.png" width="300"></td>
+    <td><img src="./img/세력고점_03.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/세력고점_04.png" width="300"></td>
+    <td><img src="./img/세력고점_05.png" width="300"></td>
+    <td><img src="./img/세력고점_06.png" width="300"></td>
+  </tr>
+  <tr align="center" valign="top">
+    <td><img src="./img/세력고점_07.png" width="300"></td>
+    <td><img src="./img/세력고점_08.png" width="300"></td>
+    <td><img src="./img/세력고점_09.png" width="300"></td>
   </tr>
 </table>  
 <br/>
