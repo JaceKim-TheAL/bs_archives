@@ -99,8 +99,8 @@
 
 <table>
   <tr valign="bottom">
-    <td><img src="./img/매수자리_01.png" width="250"></td>
-    <td colspan="2" align="center" valign="center" width="500">
+    <td width="25%"><img src="./img/매수자리_01.png" width="250"></td>
+    <td colspan="2" align="center" valign="center" width="50%">
       <table>
         <tr><td> ❶ 눌림목</td><td> 추세복귀, 추세재시작 </td><td> 이평선까지 눌렸을때</td></tr>
         <tr><td> ❷ 리테스트</td><td> 추세복귀, 진짜 돌파 시작 </td><td> 저항 ⇒ 지지 전환</td></tr>
@@ -112,7 +112,7 @@
         <tr><td> ❽ 신고가</td><td> 추세시작, 새 추세 진입 </td><td> 저항돌파 + 거래량폭증</td></tr>
       </table>
     </td>
-    <td><img src="./img/매수자리_34.png" width="250"></td>
+    <td width="25%"><img src="./img/매수자리_34.png" width="250"></td>
   </tr>
   <tr align="center">
     <td><img src="./img/매수자리_02.png" width="250"></td>
