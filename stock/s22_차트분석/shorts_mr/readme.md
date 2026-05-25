@@ -100,7 +100,7 @@
 <table>
   <tr valign="bottom">
     <td><img src="./img/매수자리_01.png" width="250"></td>
-    <td colspan="2" align="center" valign="center">
+    <td colspan="2" align="center" valign="center" width="500">
       <table>
         <tr><td> ❶ 눌림목</td><td> 추세복귀, 추세재시작 </td><td> 이평선까지 눌렸을때</td></tr>
         <tr><td> ❷ 리테스트</td><td> 추세복귀, 진짜 돌파 시작 </td><td> 저항 ⇒ 지지 전환</td></tr>
