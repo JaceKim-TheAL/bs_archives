@@ -93,6 +93,79 @@
 [[TOP]](#index)
 
 ---
+### 매수자리 8가지
+> ❶ 눌림목, ❷ 리테스트, ❸ V반등, ❹ W바닥, ❺ 추세선, ❻ 박스하단, ❼ 갭채움, ❽ 신고가
+
+<table>
+  <tr valign="bottom">
+    <td><img src="./img/매수자리_01.png" width="250"></td>
+    <td colspan="2" valign="center">
+      <br/> ❶ 눌림목, ❷ 리테스트, 
+      <br/> ❸ V반등, ❹ W바닥, 
+      <br/> ❺ 추세선, ❻ 박스하단, 
+      <br/> ❼ 갭채움, ❽ 신고가
+    </td>
+    <td><img src="./img/매수자리_34.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/매수자리_02.png" width="250"></td>
+    <td><img src="./img/매수자리_03.png" width="250"></td>
+    <td><img src="./img/매수자리_04.png" width="250"></td>
+    <td><img src="./img/매수자리_05.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/매수자리_06.png" width="250"></td>
+    <td><img src="./img/매수자리_07.png" width="250"></td>
+    <td><img src="./img/매수자리_08.png" width="250"></td>
+    <td><img src="./img/매수자리_09.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/매수자리_10.png" width="250"></td>
+    <td><img src="./img/매수자리_11.png" width="250"></td>
+    <td><img src="./img/매수자리_12.png" width="250"></td>
+    <td><img src="./img/매수자리_13.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/매수자리_14.png" width="250"></td>
+    <td><img src="./img/매수자리_15.png" width="250"></td>
+    <td><img src="./img/매수자리_16.png" width="250"></td>
+    <td><img src="./img/매수자리_17.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/매수자리_18.png" width="250"></td>
+    <td><img src="./img/매수자리_19.png" width="250"></td>
+    <td><img src="./img/매수자리_20.png" width="250"></td>
+    <td><img src="./img/매수자리_21.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/매수자리_22.png" width="250"></td>
+    <td><img src="./img/매수자리_23.png" width="250"></td>
+    <td><img src="./img/매수자리_24.png" width="250"></td>
+    <td><img src="./img/매수자리_25.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/매수자리_26.png" width="250"></td>
+    <td><img src="./img/매수자리_27.png" width="250"></td>
+    <td><img src="./img/매수자리_28.png" width="250"></td>
+    <td><img src="./img/매수자리_29.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/매수자리_30.png" width="250"></td>
+    <td><img src="./img/매수자리_31.png" width="250"></td>
+    <td><img src="./img/매수자리_32.png" width="250"></td>
+    <td><img src="./img/매수자리_33.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/매수자리_34.png" width="250"></td>
+  </tr>
+</table>
+
+
+<br/>
+
+[[TOP]](#index)
+
+---
 ### 매수신호
 <!-- 
 > - [ ] ❶ **잉태형** : 이전봉의 고가를 돌파 종료
