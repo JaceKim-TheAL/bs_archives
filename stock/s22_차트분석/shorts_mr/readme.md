@@ -4,6 +4,7 @@
 
 - [차트고수 5단계](#차트고수-5단계)
 - [매수자리 8가지](#매수자리-8가지)
+- [거짓신호 8가지](#거짓신호-8가지)
 - [매수신호](#매수신호)
 - [매도타점](#매도타점)
 - [익절신호](#익절신호)
@@ -167,6 +168,76 @@
   </tr>
 </table>
 
+
+<br/>
+
+[[TOP]](#index)
+
+---
+### 거짓신호 8가지
+> 눌림목, 리테스트, V반등, W바닥, 추세선, 박스하단, 갭채움, 신고가
+
+<table>
+  <tr valign="bottom">
+    <td width="30%"><img src="./img/거짓신호_01.png" width="250"></td>
+    <td colspan="2" align="center" valign="center" width="60%">
+      <table>
+        <tr><td> ❶ 눌림목</td><td> 추세복귀, 추세재시작 </td><td> 이평선까지 눌렸을때</td></tr>
+        <tr><td> ❷ 리테스트</td><td> 추세복귀, 진짜 돌파 시작 </td><td> 저항 ⇒ 지지 전환</td></tr>
+        <tr><td> ❸ V반등</td><td> 패닉반전, 강한 V자 반등 </td><td> 패닉저점 + 거래량폭증</td></tr>
+        <tr><td> ❹ W바닥</td><td> 이중바닥, 강한지지 확인  </td><td> 짝궁뎅이 넥라인돌파</td></tr>
+        <tr><td> ❺ 추세선</td><td> 추세유지, 추세 지속 신호 </td><td> 추세선 터치후 반등</td></tr>
+        <tr><td> ❻ 박스하단</td><td> 박스매매, 상단까지 반등 </td><td> 박스하단 지지확인</td></tr>
+        <tr><td> ❼ 갭채움</td><td> 갭지지, 추세 재진입 </td><td> 갭자리에서 지지</td></tr>
+        <tr><td> ❽ 신고가</td><td> 추세시작, 새 추세 진입 </td><td> 저항돌파 + 거래량폭증</td></tr>
+      </table>
+    </td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/거짓신호_02.png" width="250"></td>
+    <td><img src="./img/거짓신호_03.png" width="250"></td>
+    <td><img src="./img/거짓신호_04.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/거짓신호_05.png" width="250"></td>
+    <td><img src="./img/거짓신호_06.png" width="250"></td>
+    <td><img src="./img/거짓신호_07.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/거짓신호_08.png" width="250"></td>
+    <td><img src="./img/거짓신호_09.png" width="250"></td>
+    <td><img src="./img/거짓신호_10.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/거짓신호_11.png" width="250"></td>
+    <td><img src="./img/거짓신호_12.png" width="250"></td>
+    <td><img src="./img/거짓신호_13.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/거짓신호_14.png" width="250"></td>
+    <td><img src="./img/거짓신호_15.png" width="250"></td>
+    <td><img src="./img/거짓신호_16.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/거짓신호_17.png" width="250"></td>
+    <td><img src="./img/거짓신호_18.png" width="250"></td>
+    <td><img src="./img/거짓신호_19.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/거짓신호_20.png" width="250"></td>
+    <td><img src="./img/거짓신호_21.png" width="250"></td>
+    <td><img src="./img/거짓신호_22.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/거짓신호_23.png" width="250"></td>
+    <td><img src="./img/거짓신호_24.png" width="250"></td>
+    <td><img src="./img/거짓신호_25.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/거짓신호_26.png" width="250"></td>
+    <td><img src="./img/거짓신호_27.png" width="250"></td>
+  </tr>
+</table>  
 
 <br/>
 
