@@ -178,20 +178,21 @@
 > 가짜돌파, 가짜지지, 가짜골든크로스, 가짜W바닥, 가짜거래량, 윗꼬리함정, 가짜다이버전스, 가짜추세선돌파
 
 <table>
+  <tr><td> ❶ 가짜돌파</td><td> 윗꼬리만 돌파 </td><td> 종가돌파 + 거래량 2배이상</td></tr>
+  <tr><td> ❷ 가짜지지</td><td> 1회 터치후 이탈 </td><td> 2회이상 + 반등양봉 </td></tr>
+  <tr><td> ❸ 가짜골든크로스</td><td> 횡보중 교차 </td><td> 추세전환 + 거래량증가 </td></tr>
+  <tr><td> ❹ 가짜W바닥</td><td> 이전저점보다 낮음  </td><td> 저점상승 + 넥라인돌파양봉 </td></tr>
+  <tr><td> ❺ 가짜거래량</td><td> 거래량만 터진 도지봉 </td><td> 몸통이 큰양봉 + 다음봉도 강세유지 </td></tr>
+  <tr><td> ❻ 윗꼬리함정</td><td> 긴 윗꼬리 </td><td> 몸통이 큰양봉 + 다음봉도 강세유지 </td></tr>
+  <tr><td> ❼ 가짜다이버전스</td><td> 저점이 애매 </td><td>두 저점이 명확 + 반정양봉</td></tr>
+  <tr><td> ❽ 가짜추세선돌파</td><td> 윗꼬리만 돌파</td><td>종가가 추세선위 + 거래량 증가</td></tr>
+</table>
+
+<table>
   <tr valign="bottom">
     <td width="300"><img src="./img/거짓신호_01.png" width="250"></td>
-    <td colspan="2" align="center" valign="center" width="600">
-      <table>
-        <tr><td> ❶ 가짜돌파</td><td> 윗꼬리만 돌파 </td><td> 종가돌파 + 거래량 2배이상</td></tr>
-        <tr><td> ❷ 가짜지지</td><td> 1회 터치후 이탈 </td><td> 2회이상 + 반등양봉 </td></tr>
-        <tr><td> ❸ 가짜골든크로스</td><td> 횡보중 교차 </td><td> 추세전환 + 거래량증가 </td></tr>
-        <tr><td> ❹ 가짜W바닥</td><td> 이전저점보다 낮음  </td><td> 저점상승 + 넥라인돌파양봉 </td></tr>
-        <tr><td> ❺ 가짜거래량</td><td> 거래량만 터진 도지봉 </td><td> 몸통이 큰양봉 + 다음봉도 강세유지 </td></tr>
-        <tr><td> ❻ 윗꼬리함정</td><td> 긴 윗꼬리 </td><td> 몸통이 큰양봉 + 다음봉도 강세유지 </td></tr>
-        <tr><td> ❼ 가짜다이버전스</td><td> 저점이 애매 </td><td>두 저점이 명확 + 반정양봉</td></tr>
-        <tr><td> ❽ 가짜추세선돌파</td><td> 윗꼬리만 돌파</td><td>종가가 추세선위 + 거래량 증가</td></tr>
-      </table>
-    </td>
+    <td width="300"><img src="./img/거짓신호_26.png" width="250"></td>
+    <td width="300"><img src="./img/거짓신호_27.png" width="250"></td>    
   </tr>
   <tr align="center">
     <td><img src="./img/거짓신호_02.png" width="250"></td>
