@@ -5,14 +5,14 @@
 - [차트고수 5단계](#차트고수-5단계) : 직전저점(sweep), 갭(FVG), 추세전환, 기관매수흔적, 고점돌파
 - [매수자리 8가지](#매수자리-8가지) : 눌림목, 리테스트, V반등, W바닥, 추세선, 박스하단, 갭채움, 신고가
 - [거짓신호 8가지](#거짓신호-8가지) : 가짜돌파, 가짜지지, 가짜골든크로스, 가짜W바닥, 가짜거래량, 윗꼬리함정, 가짜다이버전스, 가짜추세선돌파
-- [매수신호](#매수신호)
-- [매도타점](#매도타점)
-- [익절신호](#익절신호)
-- [컵앱핸들](#컵앤핸들)
-- [돌파패턴](#돌파패턴-8가지)
-- [반전패턴](#차트-4대-반전패턴)
-- [지속패턴](#지속-패턴-6가지)
-- [가짜돌파](#가짜돌파)
+- [매수신호](#매수신호) : 잉태형, 거래량, 지지선, 정배열, 추세돌파
+- [매도타점](#매도타점) : 상승중에 직전고점을 뚫지 못하고, 직전 종가를 이탈하면 매도
+- [익절신호](#익절신호) : 목표가 도달, 저항선에 근접, 거래량폭증 + 장대양봉, 황금선 이탈, 반전캔들 등장, 거래량감소 + 둔화, 쌍봉 M자 패턴
+- [컵앱핸들](#컵앤핸들) : 거래량 폭발, 양봉 돌파, 리테스트 성공
+- [돌파패턴](#돌파패턴-8가지) : 강세 깃발, 강세 플래그, 상승 가리비, 컵앤핸들, 강세 드래곤, 하락 쐐기, 강세 전환, 역헤드앤숄더
+- [반전패턴](#차트-4대-반전패턴) : 역헤드앤숄더, 헤드앤숄드, 하락쐐기형, 상승쐐기형
+- [지속패턴](#지속-패턴-6가지) : 매수신호(상승깃발형, 상승박스권, 상승패넌트), 경고신호(하락깃발형, 하락박스권, 하락패넌트)
+- [가짜돌파](#가짜돌파) : 모두가 보는 고점인가?,  살짝만 돌파했는가?, 다시 안으로 밀렸는가?
 
 ---
 ## 차트분석
@@ -234,10 +234,6 @@
     <td><img src="./img/거짓신호_24.png" width="250"></td>
     <td><img src="./img/거짓신호_25.png" width="250"></td>
   </tr>
-  <tr align="center">
-    <td><img src="./img/거짓신호_26.png" width="250"></td>
-    <td><img src="./img/거짓신호_27.png" width="250"></td>
-  </tr>
 </table>  
 
 <br/>
@@ -297,6 +293,33 @@
   <tr align="center">
     <td><img src="./img/매수신호_15.png" width="300"></td>
     <td><img src="./img/매수신호_16.png" width="300"></td>
+  </tr>
+</table>
+
+<br/>
+
+[[TOP]](#index)
+
+---
+### 매도타점
+> 상승중에 직전고점을 뚫지 못하고, 직전 종가를 이탈하면 매도
+
+<table>
+  <tr align="center">
+    <td><img src="./img/매도타점_01.png" width="250"></td>
+    <td><img src="./img/매도타점_10.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/매도타점_02.png" width="250"></td>
+    <td><img src="./img/매도타점_03.png" width="250"></td>
+    <td><img src="./img/매도타점_04.png" width="250"></td>
+    <td><img src="./img/매도타점_05.png" width="250"></td>
+  </tr>
+  <tr align="center">
+    <td><img src="./img/매도타점_06.png" width="250"></td>
+    <td><img src="./img/매도타점_07.png" width="250"></td>
+    <td><img src="./img/매도타점_08.png" width="250"></td>
+    <td><img src="./img/매도타점_09.png" width="250"></td>
   </tr>
 </table>
 
@@ -371,33 +394,6 @@
     <td><img src="./img/익절신호_20.png" width="250"></td>
     <td><img src="./img/익절신호_21.png" width="250"></td>
     <td><img src="./img/익절신호_22.png" width="250"></td>
-  </tr>
-</table>
-
-<br/>
-
-[[TOP]](#index)
-
----
-### 매도타점
-> 상승중에 직전고점을 뚫지 못하고, 직전 종가를 이탈하면 매도
-
-<table>
-  <tr align="center">
-    <td><img src="./img/매도타점_01.png" width="250"></td>
-    <td><img src="./img/매도타점_10.png" width="250"></td>
-  </tr>
-  <tr align="center">
-    <td><img src="./img/매도타점_02.png" width="250"></td>
-    <td><img src="./img/매도타점_03.png" width="250"></td>
-    <td><img src="./img/매도타점_04.png" width="250"></td>
-    <td><img src="./img/매도타점_05.png" width="250"></td>
-  </tr>
-  <tr align="center">
-    <td><img src="./img/매도타점_06.png" width="250"></td>
-    <td><img src="./img/매도타점_07.png" width="250"></td>
-    <td><img src="./img/매도타점_08.png" width="250"></td>
-    <td><img src="./img/매도타점_09.png" width="250"></td>
   </tr>
 </table>
 
